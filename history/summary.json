@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.kee6.tk.ico",
     "slug": "zaxno-api",
     "status": "up",
-    "uptime": "83.67%",
-    "uptimeDay": "83.67%",
-    "uptimeWeek": "83.67%",
-    "uptimeMonth": "83.67%",
-    "uptimeYear": "83.67%",
-    "time": 333,
-    "timeDay": 333,
-    "timeWeek": 333,
-    "timeMonth": 333,
-    "timeYear": 333,
+    "uptime": "89.77%",
+    "uptimeDay": "87.06%",
+    "uptimeWeek": "89.77%",
+    "uptimeMonth": "89.77%",
+    "uptimeYear": "89.77%",
+    "time": 334,
+    "timeDay": 324,
+    "timeWeek": 334,
+    "timeMonth": 334,
+    "timeYear": 334,
     "dailyMinutesDown": {
       "2023-02-02": 186
     }
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.spookee.tk.ico",
     "slug": "kee7702-replit-api",
     "status": "up",
-    "uptime": "97.62%",
-    "uptimeDay": "97.62%",
-    "uptimeWeek": "97.62%",
-    "uptimeMonth": "97.62%",
-    "uptimeYear": "97.62%",
-    "time": 2882,
-    "timeDay": 2882,
-    "timeWeek": 2882,
-    "timeMonth": 2882,
-    "timeYear": 2882,
+    "uptime": "99.06%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.06%",
+    "uptimeYear": "99.06%",
+    "time": 2611,
+    "timeDay": 4259,
+    "timeWeek": 2611,
+    "timeMonth": 2611,
+    "timeYear": 2611,
     "dailyMinutesDown": {
-      "2023-02-02": 27
+      "2023-02-02": 17
     }
   }
 ]
